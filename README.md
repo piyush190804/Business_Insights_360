@@ -21,22 +21,42 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 
 The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance  𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, enable continuous  𝗴𝗿𝗼𝘄𝘁𝗵, and strengthen Atliq's 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻 in consumer electronics.
 
+#### DATA MODEL :
+
+![Screenshot 2025-01-25 120852](https://github.com/user-attachments/assets/d6e956c0-a754-4327-b7bf-5b5c92815c1b)
+
+
 #### FEATURES :
+
+🏠 𝗛𝗢𝗠𝗘 𝗣𝗔𝗚𝗘 :
+
+![image](https://github.com/user-attachments/assets/4dbda75f-d86f-4102-afeb-0be821e8a8d0)
+
 
  📊 𝗙𝗜𝗡𝗔𝗡𝗖𝗘 𝗩𝗜𝗘𝗪 :
 Reviewed essential 𝗞𝗣𝗜s, including 𝗡𝗲𝘁 𝗦𝗮𝗹𝗲𝘀, 𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 %, and 𝗡𝗲𝘁 𝗣𝗿𝗼𝗳𝗶𝘁 %, and developed a P&L statement. Assessed trends in net sales performance over time and pinpointed the top-performing and underperforming products and customers.
+![image](https://github.com/user-attachments/assets/eb04b4be-e848-4817-9d7c-9ec232702f82)
+
 
 📈 𝗦𝗔𝗟𝗘𝗦 𝗩𝗜𝗘𝗪 :
 Examined customer and product performance using 𝗡𝗲𝘁 𝗦𝗮𝗹𝗲𝘀 and 𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 as key indicators.
+![image](https://github.com/user-attachments/assets/14ffd3fe-ea83-41eb-91b1-4ec29775aab7)
+
 
 💸𝗠𝗔𝗥𝗞𝗘𝗧𝗜𝗡𝗚 𝗩𝗜𝗘𝗪 :
 Evaluated product performance to create strategies aimed at boosting  𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 and improving  𝗴𝗿𝗼𝘀𝘀 𝗺𝗮𝗿𝗴𝗶𝗻 percentages.
+![image](https://github.com/user-attachments/assets/a94070c5-b400-42b5-99c0-f7a4257fab51)
+
 
 🚚 𝗦𝗨𝗣𝗣𝗟𝗬 𝗖𝗛𝗔𝗜𝗡 𝗩𝗜𝗘𝗪 :
 Assessed  𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁 𝗮𝗰𝗰𝘂𝗿𝗮𝗰𝘆 and 𝗻𝗲𝘁 𝗲𝗿𝗿𝗼𝗿 for various products and customers.
+![image](https://github.com/user-attachments/assets/2b435e8c-7757-4252-b0fb-2d581449f30f)
+
 
 👩‍💻 𝗘𝗫𝗘𝗖𝗨𝗧𝗜𝗩𝗘 𝗩𝗜𝗘𝗪 :
 Examined annual trends in 𝗥𝗲𝘃𝗲𝗻𝘂𝗲, 𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 %, 𝗡𝗲𝘁 𝗣𝗿𝗼𝗳𝗶𝘁 % , and 𝗠𝗮𝗿𝗸𝗲𝘁 𝗦𝗵𝗮𝗿𝗲 %, identifying the top 5 customers and products by revenue contribution. Delivered a high-level summary with key KPIs from each perspective, offering stakeholders a clear insight into overall company performance.
+![image](https://github.com/user-attachments/assets/f6cc5db2-7459-417f-aeba-8a008115fb4b)
+
 
 ### LIVE DASHBOARD :
 
