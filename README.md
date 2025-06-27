@@ -60,7 +60,7 @@ Examined annual trends in 𝗥𝗲𝘃𝗲𝗻𝘂𝗲, 𝗚𝗿𝗼𝘀𝘀 �
 
 ### LIVE DASHBOARD :
 
-Explore the Live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTQzMzNiMTQtZDk1Ny00Y2IyLTljZDQtMTgwMDY1NmZiZGI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Explore the Live Dashboard [here](https://tinyurl.com/yjvmr24d).
 
 #### Data Source :
 
